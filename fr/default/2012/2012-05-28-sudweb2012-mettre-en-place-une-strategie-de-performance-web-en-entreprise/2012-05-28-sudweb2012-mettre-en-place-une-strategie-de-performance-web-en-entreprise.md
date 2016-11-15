@@ -20,7 +20,7 @@ Finalement, suite à un désistement de Bert Bos (W3C), [je suis devenu <em lang
 
 [Mettre en place une stratégie de performance web, Boris Shapira - Sud Web 2012](http://vimeo.com/56931059) from [Sud Web](http://vimeo.com/sudweb) on [Vimeo](https://vimeo.com/).
 
----
+***
 
 I had planned for several months to go to Toulouse for the [SudWeb Conference and Workshops](http://sudweb.fr/2012/), and I had even proposed a subject. Even if my submission had not been selected, I was very proud to go there and meet people united by the common values of Web Standards, innovation, agility… and long story short, Bert Bos (W3C) could'n come so [I finaly became a speacker](http://sudweb.fr/2012/talk/mise-en-place-dune-strategie-de-performance-en-entreprise/ "Sud Web 2012 - &quot;Mettre en place une stratégie de Performance Web en entreprise&quot; par Boris Schapira").
 
