@@ -1,9 +1,13 @@
 ---
-title: "Ecouter et réfléchir"
+title: 'Ecouter et réfléchir'
 tags:
-  - Société
+    - Société
 series:
-  - Charlie Hebdo
+    - 'Charlie Hebdo'
+date: '2015-01-12'
+section: citoyen
+lang: fr
+type: post
 ---
 
 Citations d'articles ou morceaux de dialogue entendus ou vécus ces derniers jours.

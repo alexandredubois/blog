@@ -1,12 +1,16 @@
 ---
-title: "Publicité en ligne&nbsp;: un point sur la situation"
+title: 'Publicité en ligne&nbsp;: un point sur la situation'
 i18n-key: online-advertising
 tags:
-  - Publicité
-  - Scripts tiers
-  - Transformation numérique
-  - Presse
-canonical: http://blog.clever-age.com/fr/2015/10/22/publicite-en-ligne-un-point-sur-la-situation/
+    - Publicité
+    - 'Scripts tiers'
+    - 'Transformation numérique'
+    - Presse
+canonical: 'http://blog.clever-age.com/fr/2015/10/22/publicite-en-ligne-un-point-sur-la-situation/'
+date: '2015-10-22'
+section: default
+lang: fr
+type: post
 ---
 
 ## Une guerre aux multiples facettes
