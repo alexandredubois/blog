@@ -1,9 +1,10 @@
 ---
 title: 'Introuvable !'
 date: '2016-01-26'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Après deux jours de lutte, nous avons finalement trouvé _Doudou bleu_, peluche favorite et meilleur ami de notre aîné (et de nos nuits).
@@ -18,11 +19,11 @@ En réalité, dans la précipitation du rangement par les deux loustics, _Doudou
 
 Devant la complexité du dispositif, un schéma s'impose :
 
-> Chambre
-> ——> Placard
-> ————> Carton
-> ——————> Taie
-> ————————> Pyjama
+> Chambre  
+> ——> Placard  
+> ————> Carton  
+> ——————> Taie  
+> ————————> Pyjama  
 > ——————————> _Doudou bleu_
 
 Voilà, je ne sais pas quoi ajouter devant tant de machiavélisme infantile. Je vous laisse, j'ai un _Doudou bleu_ et une pile de vêtements sales qui viennent de passer deux jours dans un carton à aller laver.

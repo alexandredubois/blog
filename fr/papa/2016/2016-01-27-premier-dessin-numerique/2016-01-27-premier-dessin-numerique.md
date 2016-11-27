@@ -2,9 +2,10 @@
 title: 'Premier dessin numérique'
 main_image: assets/images/papa/2016-01-27/1.png
 date: '2016-01-27'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Pendant que le petit faisait sa sieste, j'ai appris au grand à utiliser le <em lang="en">trackpad</em> pour dessiner sur l'ordinateur avec GIMP.
@@ -20,9 +21,9 @@ J'ai commencé par lui montrer comment dessiner un petit loup :
 
 Ensuite, j'ai réalisé un dessin sous sa dictée :
 
-> Papa, fait un bonhomme patate !
-> Avec les cheveux de maman, Papa, des cheveux longs !
-> On peut lui mettre une barbe comme toi ?
+> Papa, fait un bonhomme patate !  
+> Avec les cheveux de maman, Papa, des cheveux longs !  
+> On peut lui mettre une barbe comme toi ?  
 > Papa, on a oublié les cheveux de dessus les yeux [les sourcils] !
 
 Puis il a appris à manipuler lui-même le curseur pour poser des étoiles de toutes les couleurs :

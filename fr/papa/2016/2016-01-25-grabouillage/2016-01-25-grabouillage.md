@@ -1,13 +1,14 @@
 ---
 title: Grabouillage
 date: '2016-01-25'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
-> — Maman, pourquoi tu fais du grabouillage ?
-> — Ah non, je te remercie… c'est ma signature.
+> — Maman, pourquoi tu fais du grabouillage ?  
+> — Ah non, je te remercie… c'est ma signature.  
 > — Ah, d'accord.
 
 Cinq minutes après, il me confiera :

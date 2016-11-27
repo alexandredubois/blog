@@ -1,15 +1,16 @@
 ---
 title: 'La mise en garde'
 date: '2015-04-02'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 En sortie avec le petit dernier de 20 mois :
 
-> — Pap'a, pap'a, facìon !
-> — Quoi ?
+> — Pap'a, pap'a, facìon !  
+> — Quoi ?  
 > — Pap'a facìon la youte 'ture !
 
 Ça m'a pris quelques secondes et puis j'ai compris...

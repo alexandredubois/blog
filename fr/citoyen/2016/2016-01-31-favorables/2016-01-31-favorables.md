@@ -4,9 +4,10 @@ tags:
     - 'État d''urgence'
 main_image: assets/images/2016-01-31/1.png
 date: '2016-01-31'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 Hier avaient lieu des manifestations partout en France pour appeler à l'arrêt de l'État d'Urgence. Parallèlement, un sondage explique que [79 % des franças seraient favorables à sa prolongation](http://www.atlantico.fr/decryptage/79-pourcents-francais-favorables-prolongation-etat-urgence-jerome-fourquet-2568017.html "&quot;79% des Français favorables à une prolongation de l'état d'urgence&quot;, Jérôme Fourquet pour Atlantico"). La réponse est surprenante parce que la question est mal posée.
@@ -21,8 +22,8 @@ Or l'État d'Urgence est indépendant d'un niveau de sécurité. Il s'agit d'une
 
 Nous y sommes depuis 78 jours[^1], l'État a mené 3000 perquisitions pour aboutir à 4 enquêtes liées au terrorisme et **une seul mise en examen**. Manuel Valls parle de [prolonger l'État d'Urgence pour 30 ans](http://tempsreel.nouvelobs.com/societe/etat-d-urgence/20160122.OBS3198/manuel-valls-a-la-bbc-l-etat-d-urgence-devrait-etre-maintenu-jusqu-a-la-defaite-de-daech.html "&quot;Etat d'urgence maintenu jusqu'à la défaite de Daech : Valls crée l'imbroglio&quot;, Laurau Thouny pour Le Nouvel Obs "), autant dire pour toujours.
 
-> 3000 perquisitions.
-> 4 enquêtes anti-terroristes.
+> 3000 perquisitions.  
+> 4 enquêtes anti-terroristes.  
 > 1 mise en examen.
 
 [^1]: [Est-ce que c'est encore l'État d'Urgence ?](https://estcequecestencoreletatdurgence.fr/)
